@@ -1,5 +1,7 @@
 #PyZip
 #Command line unzip
+#Copyright (c) Alexander Richards
+#Licensed under CC Attribution
 import zlib
 import shutil
 import os
