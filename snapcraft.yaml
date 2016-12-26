@@ -4,9 +4,6 @@ summary: Easy to use, Python-based, Zip and Unzip tool.
 description: |
   Easy to use, Python-based, Zip and Unzip tool.
 
-grade: stable # must be 'stable' to release into candidate/stable channels
-confinement: devmode # use 'strict' once you have the right plugs and slots
-
 apps:
   pyzip:
     command: python3 pyZip.py
